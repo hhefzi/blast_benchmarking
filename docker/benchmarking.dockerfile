@@ -2,7 +2,7 @@ FROM ubuntu:18.04
 
 RUN apt-get update && apt-get -y upgrade && \
 	apt-get -y install apt-transport-https apt-utils && \
-	apt-get update && apt-get -y install wget parallel
+	apt-get update && apt-get -y install wget parallel curl
 
 WORKDIR /tmp
 
@@ -18,7 +18,7 @@ RUN mkdir /data/cho_protein
 
 WORKDIR /data/refseq_protein
 
-RUN update_blast.pl --source gcp refseq_protein
+RUN update_blastdb.pl --source gcp refseq_protein
 
 WORKDIR /data/cho_protein
 
