@@ -2,7 +2,7 @@ FROM ubuntu:18.04
 
 RUN apt-get update && apt-get -y upgrade && \
 	apt-get -y install apt-transport-https apt-utils && \
-	apt-get update && apt-get -y install wget parallel curl
+	apt-get update && apt-get -y install wget parallel curl time
 
 WORKDIR /tmp
 
