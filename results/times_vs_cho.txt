@@ -1,0 +1,70 @@
+./data/25000seqs.fa 15
+3694.28
+./data/50000seqs.fa 15
+7875.11
+./data/5000seqs.fa 15
+705.31
+./data/500seqs.fa 15
+78.07
+./data/50seqs.fa 15
+6.20
+./data/GCF_000001405.39_GRCh38.p13_protein.oneline.faa 15
+20446.81
+./data/LDHA.fa 15
+0.30
+./data/25000seqs.fa 8
+5261.75
+./data/50000seqs.fa 8
+10476.38
+./data/5000seqs.fa 8
+927.29
+./data/500seqs.fa 8
+102.78
+./data/50seqs.fa 8
+8.19
+./data/GCF_000001405.39_GRCh38.p13_protein.oneline.faa 8
+26300.09
+./data/LDHA.fa 8
+0.53
+./data/25000seqs.fa 4
+8142.24
+./data/50000seqs.fa 4
+17523.36
+./data/5000seqs.fa 4
+1581.21
+./data/500seqs.fa 4
+178.92
+./data/50seqs.fa 4
+14.39
+./data/GCF_000001405.39_GRCh38.p13_protein.oneline.faa 4
+46031.82
+./data/LDHA.fa 4
+0.42
+./data/25000seqs.fa 2
+14385.92
+./data/50000seqs.fa 2
+31644.78
+./data/5000seqs.fa 2
+2813.56
+./data/500seqs.fa 2
+323.34
+./data/50seqs.fa 2
+26.67
+./data/GCF_000001405.39_GRCh38.p13_protein.oneline.faa 2
+82774.51
+./data/LDHA.fa 2
+0.45
+./data/25000seqs.fa 1
+26709.40
+./data/50000seqs.fa 1
+58156.50
+./data/5000seqs.fa 1
+5227.66
+./data/500seqs.fa 1
+619.92
+./data/50seqs.fa 1
+50.60
+./data/GCF_000001405.39_GRCh38.p13_protein.oneline.faa 1
+154671.43
+./data/LDHA.fa 1
+0.65
